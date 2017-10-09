@@ -1,0 +1,10 @@
+C:\ITcollege\2017 sugis\Csharp\praktikum3\praktikum3\bin\Debug\netcoreapp1.1\praktikum3.deps.json
+C:\ITcollege\2017 sugis\Csharp\praktikum3\praktikum3\bin\Debug\netcoreapp1.1\praktikum3.runtimeconfig.json
+C:\ITcollege\2017 sugis\Csharp\praktikum3\praktikum3\bin\Debug\netcoreapp1.1\praktikum3.runtimeconfig.dev.json
+C:\ITcollege\2017 sugis\Csharp\praktikum3\praktikum3\bin\Debug\netcoreapp1.1\praktikum3.dll
+C:\ITcollege\2017 sugis\Csharp\praktikum3\praktikum3\bin\Debug\netcoreapp1.1\praktikum3.pdb
+C:\ITcollege\2017 sugis\Csharp\praktikum3\praktikum3\obj\Debug\netcoreapp1.1\praktikum3.csprojResolveAssemblyReference.cache
+C:\ITcollege\2017 sugis\Csharp\praktikum3\praktikum3\obj\Debug\netcoreapp1.1\praktikum3.csproj.CoreCompileInputs.cache
+C:\ITcollege\2017 sugis\Csharp\praktikum3\praktikum3\obj\Debug\netcoreapp1.1\praktikum3.AssemblyInfo.cs
+C:\ITcollege\2017 sugis\Csharp\praktikum3\praktikum3\obj\Debug\netcoreapp1.1\praktikum3.dll
+C:\ITcollege\2017 sugis\Csharp\praktikum3\praktikum3\obj\Debug\netcoreapp1.1\praktikum3.pdb
